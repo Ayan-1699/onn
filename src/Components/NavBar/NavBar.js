@@ -4,8 +4,7 @@ import './NavBar.css';
 export const NavBar = () => {
   return (
     <div className='NavBar'>
-        Search Bar
-        dark mode
+        <div className='search'>Search Bar</div>
         </div>
   )
 }

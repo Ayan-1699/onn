@@ -5,7 +5,15 @@
 .NavBar{
     width:100vw;
     height: 75px;
-    background-color: rgb(184, 109, 65);
+    background-color: #FE8A3F;
     padding-left: 200px;
     margin-left: 250px;
-}    
+    position: absolute;
+    top: 0;
+    right: 0;
+}   
+
+.search{
+    margin-left:300px;
+    margin-top: 20px;
+}

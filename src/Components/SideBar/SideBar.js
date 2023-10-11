@@ -7,7 +7,7 @@ export default function Sidebar(){
         <>
             <div className = 'SideBar'>
                 <div className='logo'>
-                   <img src = './logo.png' alt='logo'/>
+                   <img src = './logo.jpg' alt='logo'/>
                 </div>
                 <ul>
                     {sideBarList.map ((val, key) =>{
