@@ -1,5 +1,5 @@
 import React from 'react'
-import './Sidebar.css'
+import './SideBar.css'
 import { sideBarList } from './SideBarList.js';
 
 export default function Sidebar(){
@@ -7,7 +7,7 @@ export default function Sidebar(){
         <>
             <div className = 'SideBar'>
                 <div className='logo'>
-                   <img src = 'onnmusic\public\logo.png'/>
+                   <img src = './logo.png' alt='logo'/>
                 </div>
                 <ul>
                     {sideBarList.map ((val, key) =>{
