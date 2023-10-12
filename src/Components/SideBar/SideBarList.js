@@ -15,13 +15,13 @@ export const sideBarList = [
         link: '/explore'
     },
     {
-        name: 'Playlists',
-        icon: <QueueMusicOutlinedIcon/>,
-        link: '/playlist'
-    },
-    {
         name: 'About Us',
         icon: <InfoOutlinedIcon/>,
         link: '/about'
+    },
+    {
+        name: 'Playlists',
+        icon: <QueueMusicOutlinedIcon/>,
+        link: '/playlist'
     }
 ];
