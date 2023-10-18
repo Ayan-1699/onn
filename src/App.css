@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.Body{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.Side {
+    flex: 15%;
+    height: auto;
+    background-color: #FC7A24;
+    position: fixed;
+    left:0;
+    top: 0;
+    bottom: 0;
+    
+}
+
+.Content {
+    flex: 85%;
+    height: auto;
+    background-color: #f0b48c;
+}
+
+
+.Footer {
+    background-color: chartreuse;
+    flex:100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}    

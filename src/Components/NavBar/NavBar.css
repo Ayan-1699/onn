@@ -1,19 +1,17 @@
-*{
+/* *{
     margin:0px;
     padding:0px;
 }
-.NavBar{
+/* .NavBar{
     width:100vw;
     height: 75px;
     background-color: #FE8A3F;
     padding-left: 200px;
     margin-left: 250px;
     position: fixed;
-    /* top: 0;
-    right: 0; */
-}   
+}    */
 
-.search{
+/* .search{
     margin-left:300px;
     margin-top: 20px;
-}
+} */ 
